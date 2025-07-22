@@ -1,3 +1,5 @@
 flask
 requests
 threading
+gunicorn
+Werkzeug==2.2.3
